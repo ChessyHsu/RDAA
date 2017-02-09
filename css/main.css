@@ -10,7 +10,14 @@
 .bg{
   background-color: #e8f3e2;
 }
-
+.bottom{
+    text-align: center;
+  position: relative;
+    /*margin-left: 30%;*/
+    /*position: absolute;
+    bottom: 0%;*/
+    /*right: 30%;*/
+}
 /*svg colors */
 
 .cls-1 {
