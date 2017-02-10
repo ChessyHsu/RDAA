@@ -1,0 +1,49 @@
+body {
+  padding: 50px;
+  font-family: 'Play', sans-serif;
+}
+#home {
+      width: 1000px;
+      height: 500px;
+      background-image: url('../img/ampa.png');
+      background-size: auto 500px;
+      background-repeat: no-repeat;
+      background-color: lightblue;
+      background-position: center center;
+      padding: 0;
+      margin: 03;
+    }
+    
+    button {
+      background-color: orange;
+      color: white;
+      border: none;
+      bottom: 0;
+      height: 40px;
+      font-size: 20pt;
+      float: left;
+      width: 120px;
+      margin: 10px 0 0 0;
+    }
+    button:hover {
+      background-color: lightblue;
+    }
+
+    button:disabled {
+      background-color: grey;
+    }
+
+    p {
+      font-size: 24px;
+      font-family: Helvetica;
+      font-weight: bold;
+      width: 350px;
+      margin: 18px 0 5px 8px;
+      float: left;
+    }
+
+    .game {
+      margin: 0 auto;
+      font-family: 'Play', sans-serif;
+    }
+
